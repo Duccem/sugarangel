@@ -1,0 +1,17 @@
+body{
+    background-color: #dac8fc;
+    color: #9755c0;
+    height: 100%;
+}
+.head {
+    text-align: center;
+}
+.logo {
+    margin-top: 50px;
+    height: 200px;
+}
+
+.relato{
+    padding: 10px;
+    text-align: justify;
+}
